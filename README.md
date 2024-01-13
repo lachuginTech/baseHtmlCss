@@ -1,2 +1,2 @@
-[Purpleschool] [Антон Ларичев] HTML и CSS - полный курс по вёрстке с нуля
-Повторное прохождение базы разметки, верстке
+[Purpleschool] [Антон Ларичев] HTML и CSS - A complete course on layout from scratch
+Re-passing
